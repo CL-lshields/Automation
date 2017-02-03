@@ -1,0 +1,20 @@
+NEWS,Latest News,TRUE,,%%market%%/news
+NEWS,Business Pulse,TRUE,,%%market%%/pulse
+NEWS,Press Releases,TRUE,,%%market%%/prnewswire/press_releases
+NEWS,Sign up for Newsletters,TRUE,,%%market%%/newsletterplus
+PEOPLE & COMPANIES,Business Directory,TRUE,,%%market%%/datacenter/companies
+PEOPLE & COMPANIES,Find Businesses for Sale,TRUE,,%%market%%/businesses_for_sale
+PEOPLE & COMPANIES,Search for Company News,TRUE,,%%market%%/newssearch
+PEOPLE & COMPANIES,People on the Move,TRUE,,%%market%%/potm
+PEOPLE & COMPANIES,Executive Profiles,TRUE,,%%market%%/topic/executive-profiles
+PEOPLE & COMPANIES,Search for People in the News,TRUE,,%%market%%/newssearch
+EVENTS,Business Event Calendar,TRUE,,%%market%%/calendar
+EVENTS,Nominations,TRUE,,%%market%%/nomination
+EVENTS,Add Your Event,TRUE,,commerce/addlisting/index/market_code/%%market%%#1
+MORE,Jobs,TRUE,,%%market%%/jobs
+MORE,Store,TRUE,,commerce/index/index/market_code/%%market%%
+MORE,Sales Leads,TRUE,,%%market%%/datacenter/leads
+MORE,How To,TRUE,,%%market%%/how-to
+MORE,Home of the Day,TRUE,,%%market%%/resources/real-estate
+MORE,Bizspace,TRUE,,%%market%%/bizspace/spotlight
+MORE,ThinkBeat,TRUE,,%%market%%/partner-content/

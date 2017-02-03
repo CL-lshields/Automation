@@ -1,0 +1,29 @@
+NEWS,Latest News,TRUE,,%%market%%/news
+NEWS,Business Pulse,TRUE,,%%market%%/pulse
+NEWS,Press Releases,TRUE,,%%market%%/prnewswire/press_releases
+NEWS,Subscriber-Only Content,TRUE,,%%market%%/print-edition
+NEWS,Digital Edition,TRUE,,%%market%%/digital-edition
+NEWS,Start a Subscription,FALSE,https://secure.bizjournals.com/,subscribe/selectTerm?market=%%market%%&iana=csnav&csrc=6304
+NEWS,Sign up for Newsletters,TRUE,,%%market%%/newsletterplus
+LISTS & AWARDS,All Lists,TRUE,,%%market%%/datacenter/lists
+LISTS & AWARDS,The Book of Lists,TRUE,,%%market%%/digital-edition?issue_id=
+LISTS & AWARDS,Build Your Own Lists,TRUE,,mybookoflists
+LISTS & AWARDS,Submit Your Company to Be on a List,FALSE,https://top25lists.bizjournals.com/,newbiz/%%market%%
+LISTS & AWARDS,Nominate for an Award,TRUE,,%%market%%/nomination
+PEOPLE & COMPANIES,Business Directory,TRUE,,%%market%%/datacenter/companies
+PEOPLE & COMPANIES,Find Businesses for Sale,TRUE,,%%market%%/businesses_for_sale
+PEOPLE & COMPANIES,Search for Company News,TRUE,,%%market%%/newssearch
+PEOPLE & COMPANIES,People on the Move,TRUE,,%%market%%/potm
+PEOPLE & COMPANIES,Executive Profiles,TRUE,,%%market%%/topic/executive-profiles
+PEOPLE & COMPANIES,Search for People in the News,TRUE,,%%market%%/newssearch
+EVENTS,Business Event Calendar,TRUE,,%%market%%/calendar
+EVENTS,Nominations,TRUE,,%%market%%/nomination
+EVENTS,Add Your Event,TRUE,,commerce/addlisting/index/market_code/%%market%%
+EVENTS,Event Photos,TRUE,,%%market%%/galleries/out-of-the-office
+MORE,Jobs,TRUE,,%%market%%/jobs
+MORE,Store,TRUE,,commerce/index/index/market_code/%%market%%
+MORE,Sales Leads,TRUE,,%%market%%/datacenter/leads
+MORE,How To,TRUE,,%%market%%/how-to
+MORE,Home of the Day,TRUE,,%%market%%/resources/real-estate
+MORE,Bizspace,TRUE,,%%market%%/bizspace/spotlight
+MORE,ThinkBeat,TRUE,,%%market%%/partner-content/

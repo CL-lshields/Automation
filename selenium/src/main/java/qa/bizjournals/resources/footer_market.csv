@@ -1,0 +1,34 @@
+Main,Home,TRUE,,%%market%%
+Main,News,TRUE,,%%market%%/news
+Main,People,TRUE,,%%market%%/potm
+Main,Companies,TRUE,,%%market%%/datacenter/companies
+Main,Events,TRUE,,%%market%%/calendar
+Main,Jobs,TRUE,,%%market%%/jobs
+Main,Store,TRUE,,commerce/index/index/market_code/%%market%%
+SUBSCRIBERS,Start a Subscription,FALSE,https://secure.bizjournals.com/,subscribe/selectTerm?market=%%market%%&iana=csnav&csrc=6315
+SUBSCRIBERS,Subscriber-Only Content,TRUE,,%%market%%/print-edition
+SUBSCRIBERS,Digital Edition,TRUE,,%%market%%/digital-edition
+SUBSCRIBERS,The Book of Lists,TRUE,,%%market%%/digital-edition
+SUBSCRIBERS,Manage your Account,TRUE,,login/%%market%%?r=%2Faccount%2F%%market%%
+ABOUT & CONTACT,About Us,TRUE,,%%market%%/about-us
+ABOUT & CONTACT,About The Business Journals,FALSE,http://acbj.com/,
+ABOUT & CONTACT,Advertise,FALSE,http://www.bizjournalsmediakit.com/,%%market%%
+ABOUT & CONTACT,Help & FAQs,TRUE,,about-us/help
+ABOUT & CONTACT,Contact Us,TRUE,,%%market%%/about-us/contact
+ABOUT & CONTACT,Call Center Directory,TRUE,,%%market%%/about-us/call-center
+APPS & SYNDICATION,Newsletters,TRUE,,%%market%%/newsletterplus
+APPS & SYNDICATION,Mobile Apps,TRUE,,%%market%%/apps
+APPS & SYNDICATION,Syndication/RSS,TRUE,,%%market%%/syndication
+ACBJ,Bizwomen,TRUE,,%%market%%/bizwomen
+ACBJ,Upstart,FALSE,http://upstart.bizjournals.com/,
+ACBJ,Hemmings,FALSE,http://www.hemmings.com/,
+ACBJ,Sports Business Journal,FALSE,http://www.sportsbusinessdaily.com/,Journal.aspx
+ACBJ,Inside Lacrosse,FALSE,http://www.insidelacrosse.com/,
+ACBJ,BostInno,FALSE,http://bostinno.streetwise.co/,
+ACBJ,DCInno,FALSE,http://dcinno.streetwise.co/,
+ACBJ,ChicagoInno,FALSE,http://chicagoinno.streetwise.co/,
+ACBJ,AustinInno,FALSE,http://austininno.streetwise.co/,
+Small Print,User Agreement,FALSE,http://acbj.com/,privacy
+Small Print,Privacy Policy,FALSE,http://acbj.com/,privacy#VI
+Small Print,Your California Privacy Rights,FALSE,http://acbj.com/,privacy#VI8
+Small Print,Ad Choices,FALSE,http://acbj.com/,privacy#VI4

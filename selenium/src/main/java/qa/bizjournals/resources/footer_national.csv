@@ -1,0 +1,26 @@
+Main,Home,TRUE,,
+Main,News,TRUE,,news
+Main,People,TRUE,,potm
+Main,Companies,TRUE,,bizjournals/datacenter/companies
+Main,Events,TRUE,,calendar/bizjournals
+Main,Jobs,TRUE,,jobs
+Main,Store,TRUE,,commerce/index/index/market_code/bizjournals
+ABOUT & CONTACT,About The Business Journals,FALSE,http://acbj.com/,
+ABOUT & CONTACT,Advertise,FALSE,http://www.bizjournalsmediakit.com/,bizjournals
+ABOUT & CONTACT,Help & FAQs,TRUE,,about-us/help
+ABOUT & CONTACT,Contact Us,TRUE,,about-us/contact
+ABOUT & CONTACT,Call Center Directory,TRUE,,about-us/call-center
+APPS & SYNDICATION,Newsletters,TRUE,,bizjournals/newsletter
+ACBJ,Bizwomen,TRUE,,bizwomen
+ACBJ,Upstart,FALSE,http://upstart.bizjournals.com/,
+ACBJ,Hemmings,FALSE,http://www.hemmings.com/,
+ACBJ,Sports Business Journal,FALSE,http://www.sportsbusinessdaily.com/,Journal.aspx
+ACBJ,Inside Lacrosse,FALSE,http://www.insidelacrosse.com/,
+ACBJ,BostInno,FALSE,http://bostinno.streetwise.co/,
+ACBJ,DCInno,FALSE,http://dcinno.streetwise.co/,
+ACBJ,ChicagoInno,FALSE,http://chicagoinno.streetwise.co/,
+ACBJ,AustinInno,FALSE,http://austininno.streetwise.co/,
+Small Print,User Agreement,FALSE,http://acbj.com/,privacy
+Small Print,Privacy Policy,FALSE,http://acbj.com/,privacy#VI
+Small Print,Your California Privacy Rights,FALSE,http://acbj.com/,privacy#VI8
+Small Print,Ad Choices,FALSE,http://acbj.com/,privacy#VI4
